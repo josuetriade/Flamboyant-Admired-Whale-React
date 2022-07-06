@@ -14,7 +14,7 @@ const Home = (props) => {
       </Helmet>
       <div className="home-container1">
         <header data-role="Header" className="home-header">
-          <button className="button">Button</button>
+          <button className="button">UPDATE</button>
           <div className="home-nav">
             <NavigationLinks1 rootClassName="rootClassName10"></NavigationLinks1>
           </div>
